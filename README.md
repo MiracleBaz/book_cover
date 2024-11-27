@@ -126,6 +126,5 @@ hr{
 }
 ```
 # OUTPUT:
-![alt text](<../Screenshot 2024-11-27 145703.png>)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
